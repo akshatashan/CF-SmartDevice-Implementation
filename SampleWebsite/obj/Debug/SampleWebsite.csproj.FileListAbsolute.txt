@@ -1,0 +1,12 @@
+C:\Projects\Work\Study\Compact Framework Smart Device Implementation\SampleWebsite\SampleWebsite\bin\SampleWebsite.dll
+C:\Projects\Work\Study\Compact Framework Smart Device Implementation\SampleWebsite\SampleWebsite\bin\SampleWebsite.pdb
+C:\Projects\Work\Study\Compact Framework Smart Device Implementation\SampleWebsite\SampleWebsite\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Work\Study\Compact Framework Smart Device Implementation\SampleWebsite\SampleWebsite\obj\Debug\SampleWebsite.dll
+C:\Projects\Work\Study\Compact Framework Smart Device Implementation\SampleWebsite\SampleWebsite\obj\Debug\SampleWebsite.pdb
+C:\Projects\Work\Study\C# CF SmartDevice Implementation\SampleWebsite\bin\SampleWebsite.dll
+C:\Projects\Work\Study\C# CF SmartDevice Implementation\SampleWebsite\bin\SampleWebsite.pdb
+C:\Projects\Work\Study\C# CF SmartDevice Implementation\SampleWebsite\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Work\Study\C# CF SmartDevice Implementation\SampleWebsite\obj\Debug\SampleWebsite.dll
+C:\Projects\Work\Study\C# CF SmartDevice Implementation\SampleWebsite\obj\Debug\SampleWebsite.pdb
+C:\Projects\Work\Study\C# CF SmartDevice Implementation\SampleWebsite\bin\SmartController.dll
+C:\Projects\Work\Study\C# CF SmartDevice Implementation\SampleWebsite\bin\SmartController.pdb

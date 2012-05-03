@@ -1,0 +1,5 @@
+C:\Projects\Work\Study\C# CF SmartDevice Implementation\SmartController\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Work\Study\C# CF SmartDevice Implementation\SmartController\bin\Debug\SmartController.dll
+C:\Projects\Work\Study\C# CF SmartDevice Implementation\SmartController\bin\Debug\SmartController.pdb
+C:\Projects\Work\Study\C# CF SmartDevice Implementation\SmartController\obj\Debug\SmartController.dll
+C:\Projects\Work\Study\C# CF SmartDevice Implementation\SmartController\obj\Debug\SmartController.pdb
